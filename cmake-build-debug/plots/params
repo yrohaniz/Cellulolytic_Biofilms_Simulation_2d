@@ -1,0 +1,6 @@
+!!The first following number is the number of white spaces around the equal sign
+2
+Total number of parameters = 3
+Domain_length = 1.0
+Grid_refinement = 512
+Simulation_data_file = Biomass_density_512x512_xi-0.60

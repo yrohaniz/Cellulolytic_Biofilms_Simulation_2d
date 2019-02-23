@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cellulolytic_Biofilms_Simulation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cellulolytic_Biofilms_Simulation">
+				<Option output="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Cellulolytic_Biofilms_Simulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cellulolytic_Biofilms_Simulation"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cellulolytic_Biofilms_Simulation/fast">
+				<Option output="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Cellulolytic_Biofilms_Simulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cellulolytic_Biofilms_Simulation/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/CeBiSi.h">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/LCGS.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/Marsaglia_polar_generator.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/PRNG_uniform.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/approximations.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/integrator.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/main.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/model_functions.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/params_read.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/pararand.c">
+			<Option target="Cellulolytic_Biofilms_Simulation"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/Cellulolytic_Biofilms_simulations/2D/Parallel/Stochastic/Cellulolytic_Biofilms_Simulation_parallel_stochastic/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

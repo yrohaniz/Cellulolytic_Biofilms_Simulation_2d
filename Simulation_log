@@ -1,0 +1,900 @@
+*********start for seed=1 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:06:03 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22418
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:11:27 2018
+*********end for seed=1 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=2 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:11:27 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24599
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:17:22 2018
+*********end for seed=2 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=3 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:17:22 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21713
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:21:58 2018
+*********end for seed=3 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=4 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:21:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24709
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:26:51 2018
+*********end for seed=4 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=5 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:26:51 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22339
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:31:18 2018
+*********end for seed=5 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=6 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:31:18 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25990
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:37:03 2018
+*********end for seed=6 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=7 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:37:03 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23899
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:41:44 2018
+*********end for seed=7 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=8 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:41:44 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21561
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:46:06 2018
+*********end for seed=8 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=9 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:46:06 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25989
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:51:06 2018
+*********end for seed=9 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=10 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:51:06 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23392
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:55:40 2018
+*********end for seed=10 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=11 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:55:40 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 18748
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 17:59:26 2018
+*********end for seed=11 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=12 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 17:59:26 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20740
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:03:32 2018
+*********end for seed=12 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=13 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:03:32 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25752
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:08:24 2018
+*********end for seed=13 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=14 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:08:24 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24510
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:13:12 2018
+*********end for seed=14 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=15 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:13:12 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24457
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:17:58 2018
+*********end for seed=15 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=16 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:17:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 26458
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:23:02 2018
+*********end for seed=16 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=17 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:23:02 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22892
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:27:32 2018
+*********end for seed=17 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=18 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:27:33 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22801
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:32:02 2018
+*********end for seed=18 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=19 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:32:02 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23030
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:36:35 2018
+*********end for seed=19 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=20 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:36:35 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20615
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:40:45 2018
+*********end for seed=20 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=21 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:40:45 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23709
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:45:22 2018
+*********end for seed=21 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=22 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:45:22 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23172
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:49:54 2018
+*********end for seed=22 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=23 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:49:54 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23359
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:54:31 2018
+*********end for seed=23 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=24 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:54:31 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25445
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 18:59:25 2018
+*********end for seed=24 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=25 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 18:59:25 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23285
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:04:00 2018
+*********end for seed=25 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=26 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:04:00 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22284
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:08:23 2018
+*********end for seed=26 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=27 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:08:23 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22785
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:12:51 2018
+*********end for seed=27 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=28 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:12:51 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21789
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:17:12 2018
+*********end for seed=28 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=29 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:17:12 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20879
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:21:22 2018
+*********end for seed=29 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=30 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:21:22 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24160
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:26:04 2018
+*********end for seed=30 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=31 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:26:04 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24502
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:30:46 2018
+*********end for seed=31 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=32 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:30:46 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23502
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:35:21 2018
+*********end for seed=32 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=33 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:35:21 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24700
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:40:07 2018
+*********end for seed=33 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=34 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:40:07 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 26031
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:45:07 2018
+*********end for seed=34 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=35 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:45:07 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23272
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:49:39 2018
+*********end for seed=35 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=36 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:49:39 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22520
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:54:06 2018
+*********end for seed=36 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=37 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:54:06 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23386
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 19:58:40 2018
+*********end for seed=37 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=38 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 19:58:40 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20507
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:02:49 2018
+*********end for seed=38 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=39 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:02:49 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22365
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:07:13 2018
+*********end for seed=39 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=40 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:07:13 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21354
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:11:28 2018
+*********end for seed=40 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=41 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:11:28 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23352
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:16:00 2018
+*********end for seed=41 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=42 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:16:00 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21906
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:20:18 2018
+*********end for seed=42 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=43 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:20:18 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22091
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:24:37 2018
+*********end for seed=43 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=44 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:24:37 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22311
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:28:58 2018
+*********end for seed=44 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=45 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:28:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25529
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:33:57 2018
+*********end for seed=45 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=46 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:33:57 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 28979
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:39:28 2018
+*********end for seed=46 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=47 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:39:28 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22655
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:43:58 2018
+*********end for seed=47 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=48 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:43:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 26619
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:49:03 2018
+*********end for seed=48 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=49 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:49:03 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22171
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:53:28 2018
+*********end for seed=49 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=50 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:53:28 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 19829
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 20:57:27 2018
+*********end for seed=50 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=51 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 20:57:27 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23815
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:02:10 2018
+*********end for seed=51 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=52 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:02:10 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21766
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:06:29 2018
+*********end for seed=52 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=53 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:06:29 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24415
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:11:12 2018
+*********end for seed=53 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=54 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:11:12 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 19683
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:15:10 2018
+*********end for seed=54 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=55 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:15:10 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21558
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:19:26 2018
+*********end for seed=55 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=56 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:19:26 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23705
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:24:05 2018
+*********end for seed=56 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=57 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:24:05 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20121
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:28:09 2018
+*********end for seed=57 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=58 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:28:09 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20889
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:32:17 2018
+*********end for seed=58 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=59 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:32:17 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25372
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:37:08 2018
+*********end for seed=59 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=60 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:37:08 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22892
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:41:35 2018
+*********end for seed=60 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=61 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:41:35 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23831
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:46:07 2018
+*********end for seed=61 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=62 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:46:07 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23140
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:50:34 2018
+*********end for seed=62 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=63 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:50:34 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23756
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:55:09 2018
+*********end for seed=63 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=64 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:55:09 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23202
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 21:59:36 2018
+*********end for seed=64 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=65 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 21:59:36 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24318
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:04:15 2018
+*********end for seed=65 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=66 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:04:15 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24202
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:08:54 2018
+*********end for seed=66 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=67 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:08:54 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23766
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:13:27 2018
+*********end for seed=67 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=68 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:13:27 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24203
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:18:08 2018
+*********end for seed=68 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=69 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:18:08 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23106
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:22:38 2018
+*********end for seed=69 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=70 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:22:38 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 19932
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:26:39 2018
+*********end for seed=70 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=71 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:26:39 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22402
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:31:03 2018
+*********end for seed=71 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=72 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:31:03 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 21838
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:35:22 2018
+*********end for seed=72 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=73 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:35:22 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22072
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:39:46 2018
+*********end for seed=73 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=74 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:39:46 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 19051
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:43:41 2018
+*********end for seed=74 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=75 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:43:41 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24730
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:48:26 2018
+*********end for seed=75 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=76 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:48:26 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22060
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:52:50 2018
+*********end for seed=76 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=77 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:52:50 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25481
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 22:57:45 2018
+*********end for seed=77 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=78 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 22:57:45 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25740
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:02:38 2018
+*********end for seed=78 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=79 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:02:38 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24325
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:07:17 2018
+*********end for seed=79 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=80 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:07:17 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24294
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:11:56 2018
+*********end for seed=80 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=81 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:11:56 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 27009
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:17:01 2018
+*********end for seed=81 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=82 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:17:01 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23533
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:21:32 2018
+*********end for seed=82 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=83 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:21:32 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22814
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:25:58 2018
+*********end for seed=83 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=84 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:25:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22290
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:30:18 2018
+*********end for seed=84 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=85 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:30:18 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22765
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:34:43 2018
+*********end for seed=85 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=86 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:34:43 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24992
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:39:28 2018
+*********end for seed=86 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=87 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:39:28 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25947
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:44:23 2018
+*********end for seed=87 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=88 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:44:23 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22666
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:48:50 2018
+*********end for seed=88 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=89 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:48:50 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23910
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:53:29 2018
+*********end for seed=89 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=90 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:53:29 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23594
+The number of allocated threads for this run: 16
+Stop time for this run: Thu Oct  4 23:58:08 2018
+*********end for seed=90 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=91 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Thu Oct  4 23:58:08 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23230
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:02:37 2018
+*********end for seed=91 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=92 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:02:37 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 25428
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:07:28 2018
+*********end for seed=92 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=93 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:07:28 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22874
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:11:58 2018
+*********end for seed=93 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=94 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:11:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 26125
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:16:58 2018
+*********end for seed=94 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=95 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:16:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23966
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:21:37 2018
+*********end for seed=95 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=96 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:21:37 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 24370
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:26:23 2018
+*********end for seed=96 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=97 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:26:23 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 23239
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:30:57 2018
+*********end for seed=97 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=98 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:30:58 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 22671
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:35:25 2018
+*********end for seed=98 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=99 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:35:25 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 28736
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:40:51 2018
+*********end for seed=99 , grid size=256x256 , Wiener coefficient=0.30*********
+
+*********start for seed=100 , grid size=256x256 , Wiener coefficient=0.30*********
+Start time for this run: Fri Oct  5 00:40:51 2018
+Cell size in both x and y directions: 0.003906
+Upper limit of time step: 0.038580
+# of time steps: 20928
+The number of allocated threads for this run: 16
+Stop time for this run: Fri Oct  5 00:45:00 2018
+*********end for seed=100 , grid size=256x256 , Wiener coefficient=0.30*********
+

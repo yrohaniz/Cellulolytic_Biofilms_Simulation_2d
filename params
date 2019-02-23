@@ -1,0 +1,21 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The simulation parameters can be changed below!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Total number of parameters = 19
+Number_of_requested_threads = 16
+Start_time = 0.0
+Stop_time = 80.0
+Initial_seed = 1
+Final_seed = 100
+Initial_biomass_density = 0.0
+Initial_carbon_concentration = 1.00
+Initial_attachment_value = 0.0
+Initial_bmass_deposit_location = 0
+Domain_length = 1.0
+Domain_width = 1.0
+Bmassdns_lower_limit_calc_param = 16
+Bmassdns_upper_limit_calc_param = 4096
+Data_recording_time_increments = 0.1
+Biomass_density_attachment_rate = 0.01
+Coarsest_grid_size_x = 256
+Coarsest_grid_size_y = 256
+Finest_grid_size_x = 256
+Finest_grid_size_y = 256

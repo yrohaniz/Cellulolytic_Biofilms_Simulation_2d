@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/main.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/main.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/main.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/model_functions.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/model_functions.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/model_functions.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/integrator.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/integrator.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/integrator.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/approximations.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/approximations.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/approximations.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/PRNG_uniform.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/PRNG_uniform.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/PRNG_uniform.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/Marsaglia_polar_generator.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/Marsaglia_polar_generator.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/Marsaglia_polar_generator.c"
+},
+{
+  "directory": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/cmake-build-debug",
+  "command": "/usr/bin/cc   -fopenmp -O3 -DNDEBUG   -std=gnu11 -o CMakeFiles/Cellulolytic_Biofilms_Simulation.dir/LCGS.c.o   -c /home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/LCGS.c",
+  "file": "/home/yousefrohan/Desktop/Cellulolytic_Biofilms_Simulation_parallel_stochastic_v1/LCGS.c"
+}
+]
